@@ -1,0 +1,12 @@
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\bin\Debug\net6.0\ProjectServer.Entities.deps.json
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\bin\Debug\net6.0\ProjectServer.Entities.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\bin\Debug\net6.0\ProjectServer.Entities.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.AssemblyInfo.cs
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\refint\ProjectServer.Entities.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ProjectServer.Entities.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Entities\obj\Debug\net6.0\ref\ProjectServer.Entities.dll

@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\bin\Debug\net6.0\ProjectServer.Repository.Interfaces.deps.json
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\bin\Debug\net6.0\ProjectServer.Repository.Interfaces.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\bin\Debug\net6.0\ProjectServer.Repository.Interfaces.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.AssemblyInfo.cs
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\refint\ProjectServer.Repository.Interfaces.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ref\ProjectServer.Repository.Interfaces.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\bin\Debug\net6.0\ProjectServer.Entities.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\bin\Debug\net6.0\ProjectServer.Entities.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Repository.Interfaces\obj\Debug\net6.0\ProjectServer.Repository.Interfaces.csproj.CopyComplete

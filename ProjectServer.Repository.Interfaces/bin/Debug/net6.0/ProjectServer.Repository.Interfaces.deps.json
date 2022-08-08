@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjectServer.Repository.Interfaces/1.0.0": {
+        "dependencies": {
+          "ProjectServer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ProjectServer.Repository.Interfaces.dll": {}
+        }
+      },
+      "ProjectServer.Entities/1.0.0": {
+        "runtime": {
+          "ProjectServer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectServer.Repository.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectServer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

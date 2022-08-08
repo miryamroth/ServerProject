@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectServer.Entities\ProjectServer.Entities.csproj" />
+    <ProjectReference Include="..\ProjectServer.Model\ProjectServer.Model.csproj" />
+    <ProjectReference Include="..\ProjectServer.Repository.Interfaces\ProjectServer.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

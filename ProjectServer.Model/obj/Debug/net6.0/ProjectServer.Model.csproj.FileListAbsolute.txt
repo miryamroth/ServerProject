@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\bin\Debug\net6.0\ProjectServer.Model.deps.json
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\bin\Debug\net6.0\ProjectServer.Model.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\bin\Debug\net6.0\ProjectServer.Model.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.AssemblyInfo.cs
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\refint\ProjectServer.Model.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.pdb
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ref\ProjectServer.Model.dll
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\bin\Debug\net6.0\ProjectServer.Model.runtimeconfig.json
+C:\Users\user1\source\repos\ProjectServer\ProjectServer.Model\obj\Debug\net6.0\ProjectServer.Model.genruntimeconfig.cache
